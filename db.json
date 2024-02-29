@@ -1,0 +1,13 @@
+{
+  "solicitudes": [
+    {
+      "nombre": "prueba",
+      "documento": "421421",
+      "email": "djaldintaboada@gmail.com",
+      "telefono": "45464465",
+      "monto": "5467",
+      "estado": "aprobado",
+      "id": 1
+    }
+  ]
+}
